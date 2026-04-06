@@ -372,6 +372,7 @@ body {
 .cards {
     display: flex;
     gap: 1.5rem;
+    transition: all 0.3s ease;
 }
 
 .card {
